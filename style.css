@@ -2,3 +2,10 @@
 {
     transform: scale(1.1);
 }
+.santa
+{
+    position: absolute;
+    width: 15%;
+    right: 0;
+    bottom: 0;
+}
